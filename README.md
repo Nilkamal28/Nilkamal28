@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm Nilkamal Kamble — a passionate **Frontend Developer** dedicated to building modern, responsive, and user-friendly web applications.
 
-<!--
-**Nilkamal28/Nilkamal28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 I specialize in:
+- 🌐 HTML, CSS, JavaScript (ES6+)
+- ⚛️ React.js 
+- 🎨 Bootstrap 
+- 🧰 Git & GitHub 
 
-Here are some ideas to get you started:
+💡 I love:
+- Writing clean, maintainable code
+- Learning new tools and frameworks
+- Solving real-world problems with code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📁 Check out my repositories to see:
+- Projects using real APIs (e.g. OMDB, TMDB)
+- Fully responsive website layouts
+- Reusable React components
+- Frontend challenges and clones
+
+🚀 Currently building: [Project name or “React Movie App”, etc.]
+📫 Let's connect: nilkamalkamble786@gmail.com 
